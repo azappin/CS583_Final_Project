@@ -1,0 +1,1158 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/antho/Final Projec
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56681
+Successfully changed project path to: C:/Users/antho/Final Projec
+C:/Users/antho/Final Projec
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/antho/Final Projec/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003458 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.568 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001199 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1343 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.9 MB.
+System memory in use after: 66.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1789.
+Total: 2.141200 ms (FindLiveObjects: 0.194200 ms CreateObjectMapping: 0.082800 ms MarkObjects: 1.777600 ms  DeleteObjects: 0.085600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/LevelPack/LevelPack.prefab
+  artifactKey: Guid(1abeab0dfc2434f499dcea623aae8e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LevelPack/LevelPack.prefab using Guid(1abeab0dfc2434f499dcea623aae8e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4448dd8c54d9b5bd680eda36f93c37') in 0.317210 seconds
+  Import took 0.321548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.240672 seconds.
+  path: Assets/Prefabs/LevelPack/LevelPack 1.prefab
+  artifactKey: Guid(677a73a4f2b15784f85ea831fbc917a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LevelPack/LevelPack 1.prefab using Guid(677a73a4f2b15784f85ea831fbc917a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ae2b4a14fb10924f06e05beb78566c') in 0.091702 seconds
+  Import took 0.096915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.137665 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment
+  artifactKey: Guid(45485fdc3facd6849b8da83aa018e507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment using Guid(45485fdc3facd6849b8da83aa018e507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54dc02e45aa3ca548f131b20fb99d8ce') in 0.020238 seconds
+  Import took 0.025556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843929 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney
+  artifactKey: Guid(f88b20a4382998647813d9d122c2493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney using Guid(f88b20a4382998647813d9d122c2493b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f575fc9054168fa84764060680975d8c') in 0.038310 seconds
+  Import took 0.041392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053438 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/arrow.prefab
+  artifactKey: Guid(1cfcbaa06fc994b47aad08506f941782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/arrow.prefab using Guid(1cfcbaa06fc994b47aad08506f941782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4999d7ebd2c3ba36284384ff58cf253') in 0.047975 seconds
+  Import took 0.051667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/barrel 1.prefab
+  artifactKey: Guid(201ac5f6eb1cac1438945cc520b4f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/barrel 1.prefab using Guid(201ac5f6eb1cac1438945cc520b4f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5856d8fec71200425618433f41e6e3e6') in 0.030411 seconds
+  Import took 0.034386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockCornerLarge.prefab
+  artifactKey: Guid(9dc316be0786d444885030d2c4407d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockCornerLarge.prefab using Guid(9dc316be0786d444885030d2c4407d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83af2ac4f416d57011f50b0943a71e4a') in 0.031801 seconds
+  Import took 0.034990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockHalf.prefab
+  artifactKey: Guid(eee8a9539d0ab71418c5a4744767f47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockHalf.prefab using Guid(eee8a9539d0ab71418c5a4744767f47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2d5e5194c5ace4413717e23da85fff') in 0.024103 seconds
+  Import took 0.028287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockHexagonLow.prefab
+  artifactKey: Guid(04e5ddfc6df98d64f86c524351304cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockHexagonLow.prefab using Guid(04e5ddfc6df98d64f86c524351304cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443b9460b676d548c7f4b8fc2423237c') in 0.022568 seconds
+  Import took 0.025208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSlopeHalf.prefab
+  artifactKey: Guid(7f228d626e06f324eb474ae10045ce9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSlopeHalf.prefab using Guid(7f228d626e06f324eb474ae10045ce9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93ba5222be6e5647dfa7825ceabe968') in 0.026221 seconds
+  Import took 0.028954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockCornerSmall.prefab
+  artifactKey: Guid(afa2c2dcb3f841241a607dece8698259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockCornerSmall.prefab using Guid(afa2c2dcb3f841241a607dece8698259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb95cf3932f3262b0b3734ecee3f1921') in 0.022595 seconds
+  Import took 0.025843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHalf.prefab
+  artifactKey: Guid(5a0d56c863a79654ea970f931ef31bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHalf.prefab using Guid(5a0d56c863a79654ea970f931ef31bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d0026e54c2343a62c45c5e29d2b579') in 0.038725 seconds
+  Import took 0.042117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowLarge.prefab
+  artifactKey: Guid(62c539c9f643c584bbce1b1f98037be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowLarge.prefab using Guid(62c539c9f643c584bbce1b1f98037be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a162b8b757fdbcaf530f76655f3fad9d') in 0.024402 seconds
+  Import took 0.027678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHexagon.prefab
+  artifactKey: Guid(8d010256e81356a45b9aa576766dab1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHexagon.prefab using Guid(8d010256e81356a45b9aa576766dab1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7c50de8ae549efddbcdbb7cb9b298d') in 0.022961 seconds
+  Import took 0.025639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/bridgeRamp.prefab
+  artifactKey: Guid(d3e92ed547a880344a60ca580d6e9738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/bridgeRamp.prefab using Guid(d3e92ed547a880344a60ca580d6e9738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d57423f92e517cf701321ea745aef32') in 0.022453 seconds
+  Import took 0.025198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLow.prefab
+  artifactKey: Guid(116ab3a9777d07445970427e65d1ebf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLow.prefab using Guid(116ab3a9777d07445970427e65d1ebf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5b1dbd799deb230b1b87d99adf375c') in 0.022253 seconds
+  Import took 0.026172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fence.prefab
+  artifactKey: Guid(be1ab81ae49f74347b046060c00357b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fence.prefab using Guid(be1ab81ae49f74347b046060c00357b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245ef79c893f34042b9a16261ef8ac94') in 0.021642 seconds
+  Import took 0.025023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/flowers.prefab
+  artifactKey: Guid(5b24a249b652a5f40943643f75030fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/flowers.prefab using Guid(5b24a249b652a5f40943643f75030fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba6ba16fbd794043953d95c96c56501') in 0.023236 seconds
+  Import took 0.026544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowSlope.prefab
+  artifactKey: Guid(fd43dca61e6ce9640a6f79e8e60e0616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowSlope.prefab using Guid(fd43dca61e6ce9640a6f79e8e60e0616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc00d4fb0ef12e5cf49816959050889') in 0.023231 seconds
+  Import took 0.027298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/sign.prefab
+  artifactKey: Guid(65341ea6337386d49a98b717fc57fa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/sign.prefab using Guid(65341ea6337386d49a98b717fc57fa7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e2ca9edeed2966dd9b83298c1c0254') in 0.029125 seconds
+  Import took 0.034341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowCornerCurved.prefab
+  artifactKey: Guid(0b4fff1f1eb081442b2505eb885ca970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowCornerCurved.prefab using Guid(0b4fff1f1eb081442b2505eb885ca970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8273190ef31b73c9ce3d789fa5895a7') in 0.042683 seconds
+  Import took 0.048106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001288 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHexagonLow.prefab
+  artifactKey: Guid(369f20b02d321b04586955d29dc59c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowHexagonLow.prefab using Guid(369f20b02d321b04586955d29dc59c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25a051883d0680f378f8d618da95ce8') in 0.050691 seconds
+  Import took 0.060068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/bridge.prefab
+  artifactKey: Guid(abfb5437472eb414183f94d333b50d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/bridge.prefab using Guid(abfb5437472eb414183f94d333b50d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72fa8377fc79e23378cd28e00d524fb') in 0.048165 seconds
+  Import took 0.058776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001352 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCornerSmall.prefab
+  artifactKey: Guid(0fbd8a5f63d2b33439f6b1fe061565f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCornerSmall.prefab using Guid(0fbd8a5f63d2b33439f6b1fe061565f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee835c9df94cd1d8cfeb87ca5fe5e01') in 0.051883 seconds
+  Import took 0.060941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001310 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCornerLarge.prefab
+  artifactKey: Guid(67a2b8b14f792d04aa0a9e18d204933b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCornerLarge.prefab using Guid(67a2b8b14f792d04aa0a9e18d204933b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238f5ddae584043018a9626b5baceca5') in 0.044959 seconds
+  Import took 0.053211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001395 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowLevel.prefab
+  artifactKey: Guid(3666048021887104f8b48c39c2cec2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowLevel.prefab using Guid(3666048021887104f8b48c39c2cec2ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a4ee67071e4bddadf8a6c070b48244') in 0.047342 seconds
+  Import took 0.055828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/ladderBroken.prefab
+  artifactKey: Guid(8a9733705e251e54b97486634880ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/ladderBroken.prefab using Guid(8a9733705e251e54b97486634880ea59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab6d839f056ead3856ac4ad7fb93705') in 0.043351 seconds
+  Import took 0.053629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/block.prefab
+  artifactKey: Guid(235539f947d857440a0d9c4e2cdee08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/block.prefab using Guid(235539f947d857440a0d9c4e2cdee08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760bac01e0dd72142a5585d3502daba2') in 0.063070 seconds
+  Import took 0.075630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/rocks.prefab
+  artifactKey: Guid(7e1fc31ecb6c5e648a8ef8b658fec4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/rocks.prefab using Guid(7e1fc31ecb6c5e648a8ef8b658fec4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de24c01527c452c012332d2ae84fdc5b') in 0.078849 seconds
+  Import took 0.083397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/arrows.prefab
+  artifactKey: Guid(0dbcb6e580e57884fb18c85d42c6de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/arrows.prefab using Guid(0dbcb6e580e57884fb18c85d42c6de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ec3d4530e0c4605f348646dcb77da5') in 0.046115 seconds
+  Import took 0.051395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockHexagon.prefab
+  artifactKey: Guid(16eb8bbae8c3d894293747314bf58cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockHexagon.prefab using Guid(16eb8bbae8c3d894293747314bf58cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02f7356d18231cd2929aac4af61a5ba') in 0.049387 seconds
+  Import took 0.054060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockEnd.prefab
+  artifactKey: Guid(502ea3ef7ad94a8448844b8757bf2c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockEnd.prefab using Guid(502ea3ef7ad94a8448844b8757bf2c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a298f358785dbdb924f951a6738bc389') in 0.045736 seconds
+  Import took 0.052397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCliff.prefab
+  artifactKey: Guid(2fc3a378d2190f94d94b674253831a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCliff.prefab using Guid(2fc3a378d2190f94d94b674253831a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a4a5e8a621be0dff108d94d9ac6b6e') in 0.050839 seconds
+  Import took 0.056458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockDirtHalf.prefab
+  artifactKey: Guid(67529e69eed65e142a42f3f809988a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockDirtHalf.prefab using Guid(67529e69eed65e142a42f3f809988a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe995c4ebf264096c1c53a0843945c4') in 0.051845 seconds
+  Import took 0.057643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/treeSnow.prefab
+  artifactKey: Guid(b2d8ce5ee44721d4d8fc531434a9731d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/treeSnow.prefab using Guid(b2d8ce5ee44721d4d8fc531434a9731d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabb993199da8862c138e906929fde6e') in 0.039881 seconds
+  Import took 0.044570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockLarge.prefab
+  artifactKey: Guid(29998c412e42d9c4d986f2b81cc35cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockLarge.prefab using Guid(29998c412e42d9c4d986f2b81cc35cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d77c4f3fa7e903f3d2c472c6a7afc7') in 0.045093 seconds
+  Import took 0.049602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowEnd.prefab
+  artifactKey: Guid(9934858ab52c7a042abb1d62edd42dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowEnd.prefab using Guid(9934858ab52c7a042abb1d62edd42dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95f4edc128edd648f29aa7fae2e1b64') in 0.042820 seconds
+  Import took 0.048074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockCliff.prefab
+  artifactKey: Guid(edc4c3c8f9645ac429097ed75f17e20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockCliff.prefab using Guid(edc4c3c8f9645ac429097ed75f17e20c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996c5be7dd1f6c90c1f6e742d5c76e7d') in 0.045317 seconds
+  Import took 0.049042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/ladderLong.prefab
+  artifactKey: Guid(18dfc74b007dc0541a44b0487e2e600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/ladderLong.prefab using Guid(18dfc74b007dc0541a44b0487e2e600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf10721d7b42a379ea44d149a6404d2') in 0.043601 seconds
+  Import took 0.047496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/tree.prefab
+  artifactKey: Guid(2d0dca4bdcfce1a46963407cef69deb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/tree.prefab using Guid(2d0dca4bdcfce1a46963407cef69deb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd914cc911d33959b843c1bb8429abcad') in 0.045589 seconds
+  Import took 0.050212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceCornerCurved.prefab
+  artifactKey: Guid(d698473c4e9d4f543b055f2c15e4640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceCornerCurved.prefab using Guid(d698473c4e9d4f543b055f2c15e4640c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2995ea41193e7f9a5ca7f7ba74b99da') in 0.044332 seconds
+  Import took 0.048789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowCorner.prefab
+  artifactKey: Guid(e1c61c9bc074d53468d1345f2ceea395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowCorner.prefab using Guid(e1c61c9bc074d53468d1345f2ceea395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c7ccf5f2e560a9f9c88a4218516807') in 0.045177 seconds
+  Import took 0.049626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceCorner.prefab
+  artifactKey: Guid(ee17c6806be430d48bbc1e172fea82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceCorner.prefab using Guid(ee17c6806be430d48bbc1e172fea82ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b356f338a7b959643c78ae6ad3b5e9c') in 0.045932 seconds
+  Import took 0.049592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockDirt.prefab
+  artifactKey: Guid(a0852f2574e03064a83f85550c7bad59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockDirt.prefab using Guid(a0852f2574e03064a83f85550c7bad59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e016a5e4306547530d9aa48cc83c97') in 0.044725 seconds
+  Import took 0.050547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowSlopeHalf.prefab
+  artifactKey: Guid(f5968b6965c9c104face6ffaec3e909c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowSlopeHalf.prefab using Guid(f5968b6965c9c104face6ffaec3e909c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8794a79a49597457f8836ef260e1758c') in 0.046846 seconds
+  Import took 0.051160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnow.prefab
+  artifactKey: Guid(375387b301e61ac4fa73d5ea8e382d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnow.prefab using Guid(375387b301e61ac4fa73d5ea8e382d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6020b53ec7244e518916c15f318676') in 0.044005 seconds
+  Import took 0.052078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowBroken.prefab
+  artifactKey: Guid(4ceaba8ed7b192e4fb286fb3d8811458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceLowBroken.prefab using Guid(4ceaba8ed7b192e4fb286fb3d8811458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffab64725fb9c25fc9769e397c2821a') in 0.051506 seconds
+  Import took 0.058431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/platform.prefab
+  artifactKey: Guid(e7bced4a1e06b07408428865b6b994e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/platform.prefab using Guid(e7bced4a1e06b07408428865b6b994e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41246d874d4646ca3e9b40629aef8166') in 0.050449 seconds
+  Import took 0.059700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/fenceBroken.prefab
+  artifactKey: Guid(165d307c5d4c8794ab6a133dde96bceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/fenceBroken.prefab using Guid(165d307c5d4c8794ab6a133dde96bceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba925835b6809809f4e0b3c2593ec5a2') in 0.046233 seconds
+  Import took 0.050122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockLevel.prefab
+  artifactKey: Guid(262de42b4bbe295468e85446b893202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockLevel.prefab using Guid(262de42b4bbe295468e85446b893202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d95b950e1c4972224ae5861743a1187') in 0.046877 seconds
+  Import took 0.051265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCliffCorner.prefab
+  artifactKey: Guid(5927f662a165def47a0e179408677647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowCliffCorner.prefab using Guid(5927f662a165def47a0e179408677647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a036ca78cb7497299a46461fab54024') in 0.052154 seconds
+  Import took 0.056871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/barrel.prefab
+  artifactKey: Guid(b49a6b73c788917418f5dd543141ab1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/barrel.prefab using Guid(b49a6b73c788917418f5dd543141ab1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea90e3d43305aa1ec8b03ef8abc7e1a1') in 0.037989 seconds
+  Import took 0.043616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/hedge.prefab
+  artifactKey: Guid(b3a158924bea6fe4180e9ea725e9dd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/hedge.prefab using Guid(b3a158924bea6fe4180e9ea725e9dd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b1c4e0a9a61461d64a8479564dcca4') in 0.047849 seconds
+  Import took 0.052030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/mushrooms.prefab
+  artifactKey: Guid(daa3c40f900aa1d4394caf3af0211ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/mushrooms.prefab using Guid(daa3c40f900aa1d4394caf3af0211ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c2761f1f46be0e2c739897df7a52dc') in 0.049717 seconds
+  Import took 0.054282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001324 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockCliffCorner.prefab
+  artifactKey: Guid(9ac51a42adc0afb41b23a9787532cacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockCliffCorner.prefab using Guid(9ac51a42adc0afb41b23a9787532cacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c5dc7c820960e0c7ae83e2a545c618') in 0.050124 seconds
+  Import took 0.058777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSlope.prefab
+  artifactKey: Guid(9c5c0fca589319d478b76fca7cbbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSlope.prefab using Guid(9c5c0fca589319d478b76fca7cbbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a161a9d3f3110aefd2affc8e6df51dc') in 0.049522 seconds
+  Import took 0.055809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowQuarter.prefab
+  artifactKey: Guid(3e7128b6538712b4bbcccb5848f21032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockSnowQuarter.prefab using Guid(3e7128b6538712b4bbcccb5848f21032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0230664c6b724e5609bf764ed8a81c88') in 0.045118 seconds
+  Import took 0.049921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001511 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockMoving.prefab
+  artifactKey: Guid(57cb48272e2e05346933aea4fa53b3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockMoving.prefab using Guid(57cb48272e2e05346933aea4fa53b3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a347dd0a0e1b849fe14d54ce22f1e5a') in 0.050252 seconds
+  Import took 0.054100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/blockQuarter.prefab
+  artifactKey: Guid(41bb744304126914f89d10d316f1ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/blockQuarter.prefab using Guid(41bb744304126914f89d10d316f1ab04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab3db586bc342482cc1ecba42262629') in 0.046664 seconds
+  Import took 0.052876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/bridgeHalf.prefab
+  artifactKey: Guid(de2f37422d4aeda4ab380776c31b7f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/bridgeHalf.prefab using Guid(de2f37422d4aeda4ab380776c31b7f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f0e179289ea519fb797e4a4fe75dba') in 0.055881 seconds
+  Import took 0.060219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/ladder.prefab
+  artifactKey: Guid(b06c52cae994ae049a5e6fd0419683e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/ladder.prefab using Guid(b06c52cae994ae049a5e6fd0419683e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05db39e1fa8883e838569967bec6f5a6') in 0.048469 seconds
+  Import took 0.052512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/3D Platformer Assets/Models/Environment/Kenney/hedgeCorner.prefab
+  artifactKey: Guid(5a17424e625975b42a90c39d046ae800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Platformer Assets/Models/Environment/Kenney/hedgeCorner.prefab using Guid(5a17424e625975b42a90c39d046ae800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a20686350cc5bc43ff18ad25dc66ab2') in 0.049082 seconds
+  Import took 0.056158 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1338 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 83.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1803.
+Total: 1.950100 ms (FindLiveObjects: 0.240200 ms CreateObjectMapping: 0.052000 ms MarkObjects: 1.581300 ms  DeleteObjects: 0.075100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1405.073229 seconds.
+  path: Assets/Scenes/Test1/NavMesh.asset
+  artifactKey: Guid(ef36b241e904008499d5dca21afcd9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test1/NavMesh.asset using Guid(ef36b241e904008499d5dca21afcd9bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a966e4bbfc992dfa493d66cca73a0a7d') in 0.037260 seconds
+  Import took 0.040753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.431782 seconds.
+  path: Assets/Scenes/Test1
+  artifactKey: Guid(8b2316789b6d8ee4393eb004f9a9c793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test1 using Guid(8b2316789b6d8ee4393eb004f9a9c793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05cc8ae7b36dc7321930f980cbee5737') in 0.017382 seconds
+  Import took 0.023199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.179955 seconds.
+  path: Assets/Scenes/Test1.unity
+  artifactKey: Guid(ecefc4b5993f1824ba2bee2d31ffa3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test1.unity using Guid(ecefc4b5993f1824ba2bee2d31ffa3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bde8b515728b2f7f0efc1cd1488ec6d') in 0.022969 seconds
+  Import took 0.028215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.246700 seconds.
+  path: Assets/Prefabs/Skeleton.prefab
+  artifactKey: Guid(e985bbf626149684a95d956bdc409269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Skeleton.prefab using Guid(e985bbf626149684a95d956bdc409269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03fef9e3b514564d3379a8a5c69b4847') in 0.165638 seconds
+  Import took 0.170188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.778309 seconds.
+  path: Assets/Level_1.unity
+  artifactKey: Guid(14134ae6ae2e9a44996b1446179948fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level_1.unity using Guid(14134ae6ae2e9a44996b1446179948fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b007511bd5c64f384f2edf8c8866659') in 0.046604 seconds
+  Import took 0.049737 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1807.
+Total: 2.637600 ms (FindLiveObjects: 0.308000 ms CreateObjectMapping: 0.067300 ms MarkObjects: 2.167300 ms  DeleteObjects: 0.093100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.121 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1810.
+Total: 2.829900 ms (FindLiveObjects: 0.387000 ms CreateObjectMapping: 0.177600 ms MarkObjects: 2.169700 ms  DeleteObjects: 0.094300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001387 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1813.
+Total: 2.549600 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.049000 ms MarkObjects: 2.208600 ms  DeleteObjects: 0.088300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001269 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1816.
+Total: 2.144700 ms (FindLiveObjects: 0.232700 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.797000 ms  DeleteObjects: 0.060100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1819.
+Total: 2.088600 ms (FindLiveObjects: 0.222200 ms CreateObjectMapping: 0.120500 ms MarkObjects: 1.649700 ms  DeleteObjects: 0.094900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1822.
+Total: 2.396100 ms (FindLiveObjects: 0.215100 ms CreateObjectMapping: 0.053300 ms MarkObjects: 2.068500 ms  DeleteObjects: 0.057600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1061.957842 seconds.
+  path: Assets/Level_1.unity
+  artifactKey: Guid(14134ae6ae2e9a44996b1446179948fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level_1.unity using Guid(14134ae6ae2e9a44996b1446179948fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec8273e2d03db1163106d2cda8ad281') in 0.020312 seconds
+  Import took 0.024050 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1825.
+Total: 2.519900 ms (FindLiveObjects: 0.173500 ms CreateObjectMapping: 0.046300 ms MarkObjects: 2.228900 ms  DeleteObjects: 0.070100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001557 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.977 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1828.
+Total: 2.496100 ms (FindLiveObjects: 0.339300 ms CreateObjectMapping: 0.088300 ms MarkObjects: 1.996800 ms  DeleteObjects: 0.070100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001455 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 2.065400 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.144000 ms MarkObjects: 1.622400 ms  DeleteObjects: 0.096000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1834.
+Total: 4.555600 ms (FindLiveObjects: 0.992400 ms CreateObjectMapping: 0.156100 ms MarkObjects: 3.328300 ms  DeleteObjects: 0.074900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1837.
+Total: 3.686200 ms (FindLiveObjects: 0.242000 ms CreateObjectMapping: 0.106900 ms MarkObjects: 3.235500 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001742 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 2.423900 ms (FindLiveObjects: 0.232500 ms CreateObjectMapping: 0.058500 ms MarkObjects: 2.047100 ms  DeleteObjects: 0.084400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 2.834500 ms (FindLiveObjects: 0.439200 ms CreateObjectMapping: 0.114800 ms MarkObjects: 2.213500 ms  DeleteObjects: 0.065200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1420.480748 seconds.
+  path: Assets/Level_1/NavMesh.asset
+  artifactKey: Guid(a5298a8d184d28a4294c904b1edd0ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level_1/NavMesh.asset using Guid(a5298a8d184d28a4294c904b1edd0ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea8d6fe73029ec1c14c4edcfd107ec9') in 0.057690 seconds
+  Import took 0.065436 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1846.
+Total: 2.489300 ms (FindLiveObjects: 0.221700 ms CreateObjectMapping: 0.055900 ms MarkObjects: 2.150600 ms  DeleteObjects: 0.060000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1849.
+Total: 2.172400 ms (FindLiveObjects: 0.215600 ms CreateObjectMapping: 0.085000 ms MarkObjects: 1.803500 ms  DeleteObjects: 0.067100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005192 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 2.282600 ms (FindLiveObjects: 0.339300 ms CreateObjectMapping: 0.126000 ms MarkObjects: 1.760100 ms  DeleteObjects: 0.055400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.914 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1855.
+Total: 2.264300 ms (FindLiveObjects: 0.353200 ms CreateObjectMapping: 0.049400 ms MarkObjects: 1.771300 ms  DeleteObjects: 0.089600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1858.
+Total: 3.864500 ms (FindLiveObjects: 0.528200 ms CreateObjectMapping: 0.306300 ms MarkObjects: 2.938600 ms  DeleteObjects: 0.084700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1861.
+Total: 2.480300 ms (FindLiveObjects: 0.236500 ms CreateObjectMapping: 0.062400 ms MarkObjects: 2.082800 ms  DeleteObjects: 0.097400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.965 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1337 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.5 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 2.184400 ms (FindLiveObjects: 0.220300 ms CreateObjectMapping: 0.085800 ms MarkObjects: 1.803100 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1701.742729 seconds.
+  path: Assets/Scenes/Test1.unity
+  artifactKey: Guid(ecefc4b5993f1824ba2bee2d31ffa3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test1.unity using Guid(ecefc4b5993f1824ba2bee2d31ffa3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918f19287f6353c79ee0df47ba164db5') in 0.041203 seconds
+  Import took 0.044889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.164629 seconds.
+  path: Assets/Prefabs/spikes.prefab
+  artifactKey: Guid(6cbe7e6f903368c4db8af31dc982ac8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/spikes.prefab using Guid(6cbe7e6f903368c4db8af31dc982ac8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ec77dd46f73e5c2766868f9b5e7edd') in 0.093871 seconds
+  Import took 0.099195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005049 seconds.
+  path: Assets/Prefabs/spikes.prefab
+  artifactKey: Guid(6cbe7e6f903368c4db8af31dc982ac8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/spikes.prefab using Guid(6cbe7e6f903368c4db8af31dc982ac8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ec77dd46f73e5c2766868f9b5e7edd') in 0.041001 seconds
+  Import took 0.045494 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
